@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-invited-presentations",
+          title: "invited presentations",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "news-our-paper-distributionally-robust-optimisation-with-bayesian-ambiguity-sets-was-accepted-at-the-neurips-2024-workshop-on-bayesian-decision-making-and-uncertainty",
           title: '🎉 Our paper Distributionally Robust Optimisation with Bayesian Ambiguity Sets was accepted at...',
           description: "",
