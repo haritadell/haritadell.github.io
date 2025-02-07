@@ -2,7 +2,9 @@
 layout: page
 permalink: /presentations/
 title: invited presentations
+description: 
 nav: true
+nav_order: 3
 ---
 
 November 2024 - Talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **UCL Centre for Data Science Symposium - Computational Statistics and Machine Learning in the Sciences** (London Mathematical Society)
