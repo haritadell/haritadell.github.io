@@ -368,16 +368,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-paper-distributionally-robust-optimisation-with-bayesian-ambiguity-sets-was-accepted-at-the-neurips-2024-workshop-on-bayesian-decision-making-and-uncertainty",
+          title: 'Our paper Distributionally Robust Optimisation with Bayesian Ambiguity Sets was accepted at the...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-started-a-new-position-as-a-postodoctoral-researcher-at-ucl",
+          title: 'I started a new position as a postodoctoral researcher at UCL!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
