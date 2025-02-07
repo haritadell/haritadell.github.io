@@ -8,18 +8,12 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher in the Department of Statitstical Sciences at University College London, where I work with [Dr. François-Xavier Briol](https://fxbriol.github.io/) and I am a member of the [Fundamentals of Statistical Machine Learning group](https://fsml-ucl.github.io/). Prior to this, I was a PhD student at the [CDT in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/centre-for-doctoral-training/) at the University of Warwick under the supervision of [Prof. Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). My research broadly focuses on developing robust methodologies that cope with challenges stemming from different types of model misspecification. Some areas I am particularly interested in are robust generalisations of Bayesian inference, distributionally robust optimisation and simulator-based inference. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My official name is spelled 'Charita,' but it is pronounced 'Harita,' so I go by the latter.
