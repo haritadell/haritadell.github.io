@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Charita 
-middle_name: (Harita)
+first_name: Harita
+middle_name: 
 last_name: Dellaporta
 email: 
   
@@ -151,6 +151,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  presentations:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -274,8 +277,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dellaporta]
+  first_name: [Charita]
 
   style: apa
   locale: en
@@ -334,7 +337,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 4 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
