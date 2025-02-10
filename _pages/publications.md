@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 
-<div class="publications & preprints">
+<div class="publications">
 
 {% bibliography %}
 

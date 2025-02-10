@@ -103,6 +103,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  teaching:
+    output: true
+    premalink: /:collection/:title/
+
 
 
 announcements:
