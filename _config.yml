@@ -110,6 +110,7 @@ teaching:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the teaching
   permalink: /:collection/:title/
+  output: true
 
 announcements:
   enabled: true
