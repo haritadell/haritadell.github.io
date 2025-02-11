@@ -103,18 +103,12 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
-    defaults:
-      layout: post
 
 
-
-# teaching:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#   limit:  # leave blank to include all the teaching
+teaching:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the teaching
 
 announcements:
   enabled: true
