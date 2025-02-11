@@ -1,13 +1,11 @@
 {% if site.teaching.size > 0 %}
   <div class="teaching">
-    <ul class="teaching-list">
-      {% for item in site.teaching %}
-      <li class="teaching-item">
+    {% for item in site.teaching %}
+      <div class="teaching-item">
         <span class="teaching-date">{{ item.date }}</span>
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
+        <a href="{{ item.url | relative_url }}" class="teaching-title">{{ item.title }}</a>
+      </div>
+    {% endfor %}
   </div>
 {% else %}
   <p>No teaching materials available.</p>
