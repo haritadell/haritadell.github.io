@@ -1,34 +1,3 @@
 <div class="teaching">
-  {% if site.teaching != blank %}
-    {% assign teaching_size = site.teaching | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and site.teaching.scrollable and teaching_size > 3 %}
-        style="max-height: 60vw"
-      {% endif %}
-    >
-      <table class="table table-sm table-borderless">
-        {% assign teaching = site.teaching | reverse %}
-        {% if include.limit and site.teaching.limit %}
-          {% assign teaching_limit = site.teaching.limit %}
-        {% else %}
-          {% assign teaching_limit = teaching_size %}
-        {% endif %}
-        {% for item in teaching limit: teaching_limit %}
-          <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
-            <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="teaching-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
-            </td>
-          </tr>
-        {% endfor %}
-      </table>
-    </div>
-  {% else %}
-    <p>No teaching so far...</p>
-  {% endif %}
+  {% teaching --group_by none %}
 </div>
