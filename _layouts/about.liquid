@@ -48,6 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Teaching -->
+    {% if page.teaching and site.teaching and site.teaching.enabled %}
+      <h2>
+        <a href="{{ '/teaching/' | relative_url }}" style="color: inherit">news</a>
+      </h2>
+      {% include teaching.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if site.latest_posts and site.latest_posts.enabled %}
       <h2>
