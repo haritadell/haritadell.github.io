@@ -106,8 +106,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-    enabled: true
 
+teaching:
+  enabled: true
 
 announcements:
   enabled: true
