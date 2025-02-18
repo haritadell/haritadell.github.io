@@ -18,11 +18,7 @@
           <tr>
             <th scope="row" style="width: 20%">{{ item.display_date }}</th>
             <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="teaching-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
+              {{ item.title }}
             </td>
           </tr>
         {% endfor %}
