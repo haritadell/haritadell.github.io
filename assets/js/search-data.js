@@ -77,8 +77,8 @@ ninja.data = [{
           section: "Teaching",},{id: "teaching-tutorials-for-st115-introduction-to-probability-warwick-statistics",
           title: 'Tutorials for ST115 Introduction to Probability @ Warwick Statistics',
           description: "",
-          section: "Teaching",},{id: "teaching-tutorials-for-stat0043-inference-at-scale-ucl-statistics",
-          title: 'Tutorials for STAT0043 Inference at Scale @ UCL Statistics',
+          section: "Teaching",},{id: "teaching-exercise-classes-for-stat0043-inference-at-scale-ucl-statistics",
+          title: 'Exercise classes for STAT0043 Inference at Scale @ UCL Statistics',
           description: "",
           section: "Teaching",},{
         id: 'social-email',
