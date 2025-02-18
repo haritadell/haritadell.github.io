@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+📌 February 2025 - Talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **Statistics and Data Science Seminar** (Queen Mary University of London)
+
 📌 November 2024 - Talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **UCL Centre for Data Science Symposium - Computational Statistics and Machine Learning in the Sciences** (London Mathematical Society)
 
 📌 May 2024 - Talk on Robust Bayesian Inference for Simulator-based Models and Measurement Error @ **PHYSTAT-SBI: workshop on Simulation-Based Inference in the context of Astronomy, Cosmology and Particle Physics** (Technical University of Munich)
