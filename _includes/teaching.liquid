@@ -1,12 +1,26 @@
-{% if site.teaching.size > 0 %}
-  <div class="teaching">
-    {% for item in site.teaching %}
-      <div class="teaching-item">
-        <span class="teaching-date">{{ item.date }}</span>
-        <a href="{{ item.url | relative_url }}" class="teaching-title">{{ item.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-{% else %}
-  <p>No teaching materials available.</p>
-{% endif %}
+<div class="teaching">
+      <table class="table table-sm table-borderless">
+        {% assign teaching = site.teaching | reverse %}
+        {% if include.limit and site.announcements.limit %}
+          {% assign teaching_limit = site.announcements.limit %}
+        {% else %}
+          {% assign teaching_limit = teaching_size %}
+        {% endif %}
+        {% for item in teaching limit: teaching_limit %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <td>
+              {% if item.inline %}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                <a class="teaching-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No teaching so far...</p>
+  {% endif %}
+</div>
