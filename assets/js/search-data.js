@@ -71,14 +71,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-tutorials-for-stat0043-inference-at-scale-ucl-statistics",
-          title: 'Tutorials for STAT0043 Inference at Scale @ UCL Statistics',
-          description: "",
-          section: "Teaching",},{id: "teaching-tutorials-for-st111-st112-probability-a-b-warwick-statistics",
+            },},{id: "teaching-tutorials-for-st111-st112-probability-a-b-warwick-statistics",
           title: 'Tutorials for ST111/ST112 Probability A/B @ Warwick Statistics',
           description: "",
           section: "Teaching",},{id: "teaching-tutorials-for-st115-introduction-to-probability-warwick-statistics",
           title: 'Tutorials for ST115 Introduction to Probability @ Warwick Statistics',
+          description: "",
+          section: "Teaching",},{id: "teaching-tutorials-for-stat0043-inference-at-scale-ucl-statistics",
+          title: 'Tutorials for STAT0043 Inference at Scale @ UCL Statistics',
           description: "",
           section: "Teaching",},{
         id: 'social-email',
