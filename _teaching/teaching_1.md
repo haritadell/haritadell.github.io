@@ -7,5 +7,5 @@ title: Tutorials for STAT0043 Inference at Scale @ UCL Statistics
 categories: teaching
 ---
 
-Tutorials for STAT0043 Inference at Scale @ UCL Statistics
+Exercise classes for STAT0043 Inference at Scale @ UCL Statistics
 
