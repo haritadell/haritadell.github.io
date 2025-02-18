@@ -104,8 +104,10 @@ collections:
     output: true
     permalink: /:collection/:title/
   teaching:
+    defaults:
+      layout: post
     output: true
-    permalink: /teaching/:path/
+    permalink: /:collection/:title/
 
 teaching_:
   enabled: true
