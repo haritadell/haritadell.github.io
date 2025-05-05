@@ -7,27 +7,31 @@ nav: true
 nav_order: 3
 ---
 
-📌 February 2025 - Talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **Statistics and Data Science Seminar** (Queen Mary University of London)
+📌 June 2025 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Bayescomp Satellite Workshop on Bayesian Computation and Inference with Misspecified Models** (National University of Singapore)
 
-📌 November 2024 - Talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **UCL Centre for Data Science Symposium - Computational Statistics and Machine Learning in the Sciences** (London Mathematical Society)
+📌 May 2025 - Contributed talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **First workshop on Advances in post-Bayesian methods** (University College London)
 
-📌 May 2024 - Talk on Robust Bayesian Inference for Simulator-based Models and Measurement Error @ **PHYSTAT-SBI: workshop on Simulation-Based Inference in the context of Astronomy, Cosmology and Particle Physics** (Technical University of Munich)
+📌 February 2025 - Invited talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **Statistics and Data Science Seminar** (Queen Mary University of London)
 
-📌 March 2024 - Talk on Robust Bayesian Inference for Simulator-based Models and Measurement Error @ **Workshop on Functional Inference and Machine Intelligence (FIMI)** (University of Bristol)
+📌 November 2024 - Invited talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **UCL Centre for Data Science Symposium - Computational Statistics and Machine Learning in the Sciences** (London Mathematical Society)
 
-📌 February 2024 - Talk on Robust Bayesian Inference for Berkson and Classical Measurement Error @ **Algorithms and Computationally Intensive Inference Seminars** (University of Warwick)
+📌 May 2024 - Invited talk on Robust Bayesian Inference for Simulator-based Models and Measurement Error @ **PHYSTAT-SBI: workshop on Simulation-Based Inference in the context of Astronomy, Cosmology and Particle Physics** (Technical University of Munich)
 
-📌 February 2023 - Talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Seminar on Advances in Probabilistic Machine Learning, Aalto University and ELLIS unit Helsinki** (remote)
+📌 March 2024 - Invited talk on Robust Bayesian Inference for Simulator-based Models and Measurement Error @ **Workshop on Functional Inference and Machine Intelligence (FIMI)** (University of Bristol)
 
-📌 May 2022 - Talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **One World ABC seminar, University of Warwick** (remote)
+📌 February 2024 - Invited talk on Robust Bayesian Inference for Berkson and Classical Measurement Error @ **Algorithms and Computationally Intensive Inference Seminars** (University of Warwick)
 
-📌 May 2022 - Talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **DeepMind/ELLIS CSML Seminar, University College London** (London)
+📌 February 2023 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Seminar on Advances in Probabilistic Machine Learning, Aalto University and ELLIS unit Helsinki** (remote)
 
-📌 May 2022 - Talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Seminar series, Purdue University** (remote)
+📌 May 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **One World ABC seminar, University of Warwick** (remote)
 
-📌 April 2022 - Talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **CSML reading group, University of Cambridge** (remote)
+📌 May 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **DeepMind/ELLIS CSML Seminar, University College London** (London)
 
-📌 April 2022 - Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **MLRG Seminar, CSIRO's Data61** (remote)
+📌 May 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Seminar series, Purdue University** (remote)
 
-📌 January 2022 - Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Statistics in Data-Centric Engineering (S-DCE) Seminar Series, Alan Turing Institute** (remote)
+📌 April 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **CSML reading group, University of Cambridge** (remote)
+
+📌 April 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **MLRG Seminar, CSIRO's Data61** (remote)
+
+📌 January 2022 - Invited talk on Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap @ **Statistics in Data-Centric Engineering (S-DCE) Seminar Series, Alan Turing Institute** (remote)
 
