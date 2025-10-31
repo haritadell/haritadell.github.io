@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+📌 October 2025 - Invited talk on Distirbutionally Robust Optimisation @ **Kernels, Flows and Sampling Workshop** (Newcastle University)
+
+📌 August 2025 - Invited talk on Applications of Post-Bayesian methods @ **Post-Bayes seminar series** (remote)
+
 📌 June 2025 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Bayescomp Satellite Workshop on Bayesian Computation and Inference with Misspecified Models** (National University of Singapore)
 
 📌 May 2025 - Contributed talk on Distributionally Robust Optimisation with Bayesian Ambiguity Sets @ **First workshop on Advances in post-Bayesian methods** (University College London)
