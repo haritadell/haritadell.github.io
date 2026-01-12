@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 I started a new position as a postodoctoral researcher at UCL!
+🎉 I started a new position as a postodoctoral researcher at UCL.

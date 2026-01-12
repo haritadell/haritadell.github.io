@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **Decision Making under the Exponential Family: Distributionally Robust Optimisation with Bayesian Ambiguity Sets** was accepted as a spotlight poster paper (top 2.6%) at ICML 2025!
+🎉 Our paper **Decision Making under the Exponential Family: Distributionally Robust Optimisation with Bayesian Ambiguity Sets** was accepted as a spotlight poster paper (top 2.6%) at ICML 2025.
