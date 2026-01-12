@@ -89,6 +89,9 @@ ninja.data = [{
           section: "Teaching",},{id: "teaching-exercise-classes-for-stat0043-inference-at-scale-ucl-statistics",
           title: 'Exercise classes for STAT0043 Inference at Scale @ UCL Statistics',
           description: "",
+          section: "Teaching",},{id: "teaching-exercise-classes-for-stat0043-inference-at-scale-ucl-statistics",
+          title: 'Exercise classes for STAT0043 Inference at Scale @ UCL Statistics',
+          description: "",
           section: "Teaching",},{
         id: 'social-email',
         title: 'email',
