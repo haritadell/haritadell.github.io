@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+📌 May 2026 - Invited talk on TBC @ **Algorithms and Computationally Intensive Inference Seminars (ACIIS)** (University of Warwick)
+
+📌 March 2026 - Invited talk on TBC @ **Data Science seminar** (University of York)
+
 📌 November 2025 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Statistics seminar** (University of Bristol)
 
 📌 October 2025 - Invited talk on Distirbutionally Robust Optimisation @ **Kernels, Flows and Sampling Workshop** (Newcastle University)
