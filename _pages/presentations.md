@@ -11,6 +11,8 @@ nav_order: 3
 
 📌 March 2026 - Invited talk on TBC @ **Data Science seminar** (University of York)
 
+📌 March 2026 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Machine Learning coffee seminar** (Aalto University)
+
 📌 November 2025 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Statistics seminar** (University of Bristol)
 
 📌 October 2025 - Invited talk on Distirbutionally Robust Optimisation @ **Kernels, Flows and Sampling Workshop** (Newcastle University)
