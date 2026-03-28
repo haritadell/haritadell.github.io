@@ -9,7 +9,7 @@ nav_order: 3
 
 📌 May 2026 - Invited talk on TBC @ **Algorithms and Computationally Intensive Inference Seminars (ACIIS)** (University of Warwick)
 
-📌 March 2026 - Invited talk on TBC @ **Data Science seminar** (University of York)
+📌 March 2026 - Invited talk on Amortised and provably-robust simulation-based inference @ **Data Science seminar** (University of York)
 
 📌 March 2026 - Invited talk on Model-based distributionally robust optimisation: Bayesian ambiguity sets and model misspecification @ **Machine Learning coffee seminar** (Aalto University)
 
