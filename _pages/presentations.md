@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-📌 May 2026 - Invited talk on TBC @ **Algorithms and Computationally Intensive Inference Seminars (ACIIS)** (University of Warwick)
+📌 May 2026 - Invited talk on Amortised and provably-robust simulation-based inference @ **Approximate Bayes Workshop** (Sabhal Mor Ostaig, (Gaelic College), Isle of Skye)
+
+📌 May 2026 - Invited talk on Amortised and provably-robust simulation-based inference @ **Algorithms and Computationally Intensive Inference Seminars (ACIIS)** (University of Warwick)
 
 📌 March 2026 - Invited talk on Amortised and provably-robust simulation-based inference @ **Data Science seminar** (University of York)
 
