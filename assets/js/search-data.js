@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/presentations/";
           },
         },{id: "news-i-started-a-new-position-as-a-postodoctoral-researcher-at-ucl",
-          title: '🎉 I started a new position as a postodoctoral researcher at UCL.',
+          title: '📌 I started a new position as a postodoctoral researcher at UCL.',
           description: "",
           section: "News",},{id: "news-our-paper-decision-making-under-the-exponential-family-distributionally-robust-optimisation-with-bayesian-ambiguity-sets-was-accepted-as-a-spotlight-poster-paper-top-2-6-at-icml-2025",
           title: '🎉 Our paper Decision Making under the Exponential Family: Distributionally Robust Optimisation with...',
